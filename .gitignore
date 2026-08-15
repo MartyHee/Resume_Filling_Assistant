@@ -4,3 +4,11 @@ CLAUDE.md
 .codex/
 .agents/
 docs/agents/
+
+# Build and test outputs
+node_modules/
+.npm-cache/
+.wxt/
+.output/
+test-results/
+playwright-report/
