@@ -1,0 +1,6 @@
+# Local AI agent configuration
+AGENTS.md
+CLAUDE.md
+.codex/
+.agents/
+docs/agents/
